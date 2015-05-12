@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ computerMove()
+comment10.params=i
+comment10.target=java.lang.String\ possibleKingMoves(int)
+comment11.params=
+comment11.target=boolean\ isCheck()
+comment2.params=
+comment2.target=void\ humanMove()
+comment3.params=move
+comment3.target=void\ makeMove(int)
+comment4.params=
+comment4.target=java.lang.String\ possibleMoves()
+comment5.params=i
+comment5.target=java.lang.String\ possiblePawnMoves(int)
+comment6.params=i
+comment6.target=java.lang.String\ possibleRookMoves(int)
+comment7.params=i
+comment7.target=java.lang.String\ possibleKnightMoves(int)
+comment8.params=i
+comment8.target=java.lang.String\ possibleBishopMoves(int)
+comment9.params=i
+comment9.target=java.lang.String\ possibleQueenMoves(int)
+numComments=12
